@@ -1,5 +1,6 @@
-Database Management and Database Design
+
 Hands-On AWS For CUSTOMER BILL TRACKER
+
 
 The goal of this project was to track bills of every user and notify them when a bill's due date is approaching, using various features of AWS like EC2, Autoscaling, Load Balacing and Serverless functions.
 Installation You can find the installation documentation for the Jupyter platform, on ReadTheDocs. The documentation for advanced usage of Jupyter notebook can be found here.
