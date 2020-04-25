@@ -1,4 +1,4 @@
-# AWS CUSTOMER BILL TRACKER
+
 
 <div style="text-align: right">INFO 6210 Data Management and Database Design </div>
 <div style="text-align: right"> Suman Rawat : NUID 001058600</div>
